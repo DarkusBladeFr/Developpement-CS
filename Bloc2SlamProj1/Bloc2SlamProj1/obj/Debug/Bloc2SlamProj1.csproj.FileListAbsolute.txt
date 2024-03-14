@@ -1,0 +1,7 @@
+C:\Users\Darkus\Desktop\MmeFrançois\Bloc2SlamProj1\Bloc2SlamProj1\bin\Debug\Bloc2SlamProj1.exe.config
+C:\Users\Darkus\Desktop\MmeFrançois\Bloc2SlamProj1\Bloc2SlamProj1\bin\Debug\Bloc2SlamProj1.exe
+C:\Users\Darkus\Desktop\MmeFrançois\Bloc2SlamProj1\Bloc2SlamProj1\bin\Debug\Bloc2SlamProj1.pdb
+C:\Users\Darkus\Desktop\MmeFrançois\Bloc2SlamProj1\Bloc2SlamProj1\obj\Debug\Bloc2SlamProj1.csproj.AssemblyReference.cache
+C:\Users\Darkus\Desktop\MmeFrançois\Bloc2SlamProj1\Bloc2SlamProj1\obj\Debug\Bloc2SlamProj1.csproj.CoreCompileInputs.cache
+C:\Users\Darkus\Desktop\MmeFrançois\Bloc2SlamProj1\Bloc2SlamProj1\obj\Debug\Bloc2SlamProj1.exe
+C:\Users\Darkus\Desktop\MmeFrançois\Bloc2SlamProj1\Bloc2SlamProj1\obj\Debug\Bloc2SlamProj1.pdb

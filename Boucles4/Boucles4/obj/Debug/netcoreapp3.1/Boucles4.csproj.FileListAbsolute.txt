@@ -1,0 +1,4 @@
+C:\Users\Darkus\Desktop\MmeFrançois\Boucles4\Boucles4\obj\Debug\netcoreapp3.1\Boucles4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darkus\Desktop\MmeFrançois\Boucles4\Boucles4\obj\Debug\netcoreapp3.1\Boucles4.AssemblyInfoInputs.cache
+C:\Users\Darkus\Desktop\MmeFrançois\Boucles4\Boucles4\obj\Debug\netcoreapp3.1\Boucles4.AssemblyInfo.cs
+C:\Users\Darkus\Desktop\MmeFrançois\Boucles4\Boucles4\obj\Debug\netcoreapp3.1\Boucles4.csproj.CoreCompileInputs.cache
