@@ -1,0 +1,7 @@
+C:\Users\Darkus\Desktop\MmeFrançois\HConduite\HConduite\bin\Debug\HConduite.exe.config
+C:\Users\Darkus\Desktop\MmeFrançois\HConduite\HConduite\bin\Debug\HConduite.exe
+C:\Users\Darkus\Desktop\MmeFrançois\HConduite\HConduite\bin\Debug\HConduite.pdb
+C:\Users\Darkus\Desktop\MmeFrançois\HConduite\HConduite\obj\Debug\HConduite.csproj.AssemblyReference.cache
+C:\Users\Darkus\Desktop\MmeFrançois\HConduite\HConduite\obj\Debug\HConduite.csproj.CoreCompileInputs.cache
+C:\Users\Darkus\Desktop\MmeFrançois\HConduite\HConduite\obj\Debug\HConduite.exe
+C:\Users\Darkus\Desktop\MmeFrançois\HConduite\HConduite\obj\Debug\HConduite.pdb

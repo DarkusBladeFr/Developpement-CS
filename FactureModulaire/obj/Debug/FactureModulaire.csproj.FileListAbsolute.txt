@@ -1,0 +1,13 @@
+D:\Users\EdithFrancois\source\repos\FactureModulaire\bin\Debug\FactureModulaire.exe.config
+D:\Users\EdithFrancois\source\repos\FactureModulaire\bin\Debug\FactureModulaire.exe
+D:\Users\EdithFrancois\source\repos\FactureModulaire\bin\Debug\FactureModulaire.pdb
+D:\Users\EdithFrancois\source\repos\FactureModulaire\obj\Debug\FactureModulaire.csprojAssemblyReference.cache
+D:\Users\EdithFrancois\source\repos\FactureModulaire\obj\Debug\FactureModulaire.csproj.CoreCompileInputs.cache
+D:\Users\EdithFrancois\source\repos\FactureModulaire\obj\Debug\FactureModulaire.exe
+D:\Users\EdithFrancois\source\repos\FactureModulaire\obj\Debug\FactureModulaire.pdb
+C:\Users\Darkus\Desktop\MmeFrançois\FactureModulaire\bin\Debug\FactureModulaire.exe
+C:\Users\Darkus\Desktop\MmeFrançois\FactureModulaire\bin\Debug\FactureModulaire.pdb
+C:\Users\Darkus\Desktop\MmeFrançois\FactureModulaire\obj\Debug\FactureModulaire.csproj.AssemblyReference.cache
+C:\Users\Darkus\Desktop\MmeFrançois\FactureModulaire\obj\Debug\FactureModulaire.csproj.CoreCompileInputs.cache
+C:\Users\Darkus\Desktop\MmeFrançois\FactureModulaire\obj\Debug\FactureModulaire.exe
+C:\Users\Darkus\Desktop\MmeFrançois\FactureModulaire\obj\Debug\FactureModulaire.pdb

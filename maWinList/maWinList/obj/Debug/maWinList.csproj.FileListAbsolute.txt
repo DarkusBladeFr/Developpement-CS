@@ -1,0 +1,10 @@
+C:\Users\Darkus\Desktop\MmeFrançois\maWinList\maWinList\bin\Debug\maWinList.exe.config
+C:\Users\Darkus\Desktop\MmeFrançois\maWinList\maWinList\bin\Debug\maWinList.exe
+C:\Users\Darkus\Desktop\MmeFrançois\maWinList\maWinList\bin\Debug\maWinList.pdb
+C:\Users\Darkus\Desktop\MmeFrançois\maWinList\maWinList\obj\Debug\maWinList.csproj.AssemblyReference.cache
+C:\Users\Darkus\Desktop\MmeFrançois\maWinList\maWinList\obj\Debug\maWinList.FrmListe.resources
+C:\Users\Darkus\Desktop\MmeFrançois\maWinList\maWinList\obj\Debug\maWinList.Properties.Resources.resources
+C:\Users\Darkus\Desktop\MmeFrançois\maWinList\maWinList\obj\Debug\maWinList.csproj.GenerateResource.cache
+C:\Users\Darkus\Desktop\MmeFrançois\maWinList\maWinList\obj\Debug\maWinList.csproj.CoreCompileInputs.cache
+C:\Users\Darkus\Desktop\MmeFrançois\maWinList\maWinList\obj\Debug\maWinList.exe
+C:\Users\Darkus\Desktop\MmeFrançois\maWinList\maWinList\obj\Debug\maWinList.pdb
