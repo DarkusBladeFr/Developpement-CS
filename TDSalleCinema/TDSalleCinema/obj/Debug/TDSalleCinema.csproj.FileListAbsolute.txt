@@ -1,0 +1,7 @@
+C:\Users\Darkus\Desktop\MmeFrançois\TDSalleCinema\TDSalleCinema\obj\Debug\TDSalleCinema.csproj.AssemblyReference.cache
+C:\Users\Darkus\Desktop\MmeFrançois\TDSalleCinema\TDSalleCinema\obj\Debug\TDSalleCinema.csproj.CoreCompileInputs.cache
+C:\Users\Darkus\Desktop\MmeFrançois\TDSalleCinema\TDSalleCinema\bin\Debug\TDSalleCinema.exe.config
+C:\Users\Darkus\Desktop\MmeFrançois\TDSalleCinema\TDSalleCinema\bin\Debug\TDSalleCinema.exe
+C:\Users\Darkus\Desktop\MmeFrançois\TDSalleCinema\TDSalleCinema\bin\Debug\TDSalleCinema.pdb
+C:\Users\Darkus\Desktop\MmeFrançois\TDSalleCinema\TDSalleCinema\obj\Debug\TDSalleCinema.exe
+C:\Users\Darkus\Desktop\MmeFrançois\TDSalleCinema\TDSalleCinema\obj\Debug\TDSalleCinema.pdb

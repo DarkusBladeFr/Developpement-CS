@@ -1,0 +1,14 @@
+C:\Users\Darkus\Desktop\MmeFrançois\TD_Tableau\TD_Tableau\bin\Debug\netcoreapp3.1\TD_Tableau.exe
+C:\Users\Darkus\Desktop\MmeFrançois\TD_Tableau\TD_Tableau\bin\Debug\netcoreapp3.1\TD_Tableau.deps.json
+C:\Users\Darkus\Desktop\MmeFrançois\TD_Tableau\TD_Tableau\bin\Debug\netcoreapp3.1\TD_Tableau.runtimeconfig.json
+C:\Users\Darkus\Desktop\MmeFrançois\TD_Tableau\TD_Tableau\bin\Debug\netcoreapp3.1\TD_Tableau.runtimeconfig.dev.json
+C:\Users\Darkus\Desktop\MmeFrançois\TD_Tableau\TD_Tableau\bin\Debug\netcoreapp3.1\TD_Tableau.dll
+C:\Users\Darkus\Desktop\MmeFrançois\TD_Tableau\TD_Tableau\bin\Debug\netcoreapp3.1\TD_Tableau.pdb
+C:\Users\Darkus\Desktop\MmeFrançois\TD_Tableau\TD_Tableau\obj\Debug\netcoreapp3.1\TD_Tableau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darkus\Desktop\MmeFrançois\TD_Tableau\TD_Tableau\obj\Debug\netcoreapp3.1\TD_Tableau.AssemblyInfoInputs.cache
+C:\Users\Darkus\Desktop\MmeFrançois\TD_Tableau\TD_Tableau\obj\Debug\netcoreapp3.1\TD_Tableau.AssemblyInfo.cs
+C:\Users\Darkus\Desktop\MmeFrançois\TD_Tableau\TD_Tableau\obj\Debug\netcoreapp3.1\TD_Tableau.csproj.CoreCompileInputs.cache
+C:\Users\Darkus\Desktop\MmeFrançois\TD_Tableau\TD_Tableau\obj\Debug\netcoreapp3.1\TD_Tableau.dll
+C:\Users\Darkus\Desktop\MmeFrançois\TD_Tableau\TD_Tableau\obj\Debug\netcoreapp3.1\TD_Tableau.pdb
+C:\Users\Darkus\Desktop\MmeFrançois\TD_Tableau\TD_Tableau\obj\Debug\netcoreapp3.1\TD_Tableau.genruntimeconfig.cache
+C:\Users\Darkus\Desktop\MmeFrançois\TD_Tableau\TD_Tableau\obj\Debug\netcoreapp3.1\TD_Tableau.csproj.AssemblyReference.cache
