@@ -1,0 +1,14 @@
+C:\Users\Darkus\Desktop\MmeFrançois\TD_List\TD_List\obj\Debug\netcoreapp3.1\TD_List.csproj.AssemblyReference.cache
+C:\Users\Darkus\Desktop\MmeFrançois\TD_List\TD_List\obj\Debug\netcoreapp3.1\TD_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darkus\Desktop\MmeFrançois\TD_List\TD_List\obj\Debug\netcoreapp3.1\TD_List.AssemblyInfoInputs.cache
+C:\Users\Darkus\Desktop\MmeFrançois\TD_List\TD_List\obj\Debug\netcoreapp3.1\TD_List.AssemblyInfo.cs
+C:\Users\Darkus\Desktop\MmeFrançois\TD_List\TD_List\obj\Debug\netcoreapp3.1\TD_List.csproj.CoreCompileInputs.cache
+C:\Users\Darkus\Desktop\MmeFrançois\TD_List\TD_List\bin\Debug\netcoreapp3.1\TD_List.exe
+C:\Users\Darkus\Desktop\MmeFrançois\TD_List\TD_List\bin\Debug\netcoreapp3.1\TD_List.deps.json
+C:\Users\Darkus\Desktop\MmeFrançois\TD_List\TD_List\bin\Debug\netcoreapp3.1\TD_List.runtimeconfig.json
+C:\Users\Darkus\Desktop\MmeFrançois\TD_List\TD_List\bin\Debug\netcoreapp3.1\TD_List.runtimeconfig.dev.json
+C:\Users\Darkus\Desktop\MmeFrançois\TD_List\TD_List\bin\Debug\netcoreapp3.1\TD_List.dll
+C:\Users\Darkus\Desktop\MmeFrançois\TD_List\TD_List\bin\Debug\netcoreapp3.1\TD_List.pdb
+C:\Users\Darkus\Desktop\MmeFrançois\TD_List\TD_List\obj\Debug\netcoreapp3.1\TD_List.dll
+C:\Users\Darkus\Desktop\MmeFrançois\TD_List\TD_List\obj\Debug\netcoreapp3.1\TD_List.pdb
+C:\Users\Darkus\Desktop\MmeFrançois\TD_List\TD_List\obj\Debug\netcoreapp3.1\TD_List.genruntimeconfig.cache

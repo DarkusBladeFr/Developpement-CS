@@ -1,0 +1,7 @@
+C:\Users\Darkus\Desktop\MmeFrançois\TD Oeuvre Héritage\TD Oeuvre Héritage\bin\Debug\TD Oeuvre Héritage.exe.config
+C:\Users\Darkus\Desktop\MmeFrançois\TD Oeuvre Héritage\TD Oeuvre Héritage\bin\Debug\TD Oeuvre Héritage.exe
+C:\Users\Darkus\Desktop\MmeFrançois\TD Oeuvre Héritage\TD Oeuvre Héritage\bin\Debug\TD Oeuvre Héritage.pdb
+C:\Users\Darkus\Desktop\MmeFrançois\TD Oeuvre Héritage\TD Oeuvre Héritage\obj\Debug\TD Oeuvre Héritage.csproj.AssemblyReference.cache
+C:\Users\Darkus\Desktop\MmeFrançois\TD Oeuvre Héritage\TD Oeuvre Héritage\obj\Debug\TD Oeuvre Héritage.csproj.CoreCompileInputs.cache
+C:\Users\Darkus\Desktop\MmeFrançois\TD Oeuvre Héritage\TD Oeuvre Héritage\obj\Debug\TD Oeuvre Héritage.exe
+C:\Users\Darkus\Desktop\MmeFrançois\TD Oeuvre Héritage\TD Oeuvre Héritage\obj\Debug\TD Oeuvre Héritage.pdb

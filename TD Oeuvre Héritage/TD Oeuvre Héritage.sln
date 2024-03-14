@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TD Oeuvre Héritage", "TD Oeuvre Héritage\TD Oeuvre Héritage.csproj", "{33ED7219-5227-4558-939F-1C07C78053C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33ED7219-5227-4558-939F-1C07C78053C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33ED7219-5227-4558-939F-1C07C78053C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33ED7219-5227-4558-939F-1C07C78053C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33ED7219-5227-4558-939F-1C07C78053C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F20218F0-CB11-458D-A38A-EB6E6EF8ADD8}
+	EndGlobalSection
+EndGlobal
