@@ -1,0 +1,7 @@
+C:\Users\Darkus\Desktop\MmeFrançois\TPAgence\TPAgence\bin\Debug\TPAgence.exe.config
+C:\Users\Darkus\Desktop\MmeFrançois\TPAgence\TPAgence\bin\Debug\TPAgence.exe
+C:\Users\Darkus\Desktop\MmeFrançois\TPAgence\TPAgence\bin\Debug\TPAgence.pdb
+C:\Users\Darkus\Desktop\MmeFrançois\TPAgence\TPAgence\obj\Debug\TPAgence.csproj.AssemblyReference.cache
+C:\Users\Darkus\Desktop\MmeFrançois\TPAgence\TPAgence\obj\Debug\TPAgence.csproj.CoreCompileInputs.cache
+C:\Users\Darkus\Desktop\MmeFrançois\TPAgence\TPAgence\obj\Debug\TPAgence.exe
+C:\Users\Darkus\Desktop\MmeFrançois\TPAgence\TPAgence\obj\Debug\TPAgence.pdb

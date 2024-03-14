@@ -1,0 +1,7 @@
+C:\Users\Darkus\Desktop\MmeFrançois\TPGarage\TPGarage\bin\Debug\TPGarage.exe.config
+C:\Users\Darkus\Desktop\MmeFrançois\TPGarage\TPGarage\bin\Debug\TPGarage.exe
+C:\Users\Darkus\Desktop\MmeFrançois\TPGarage\TPGarage\bin\Debug\TPGarage.pdb
+C:\Users\Darkus\Desktop\MmeFrançois\TPGarage\TPGarage\obj\Debug\TPGarage.csproj.AssemblyReference.cache
+C:\Users\Darkus\Desktop\MmeFrançois\TPGarage\TPGarage\obj\Debug\TPGarage.csproj.CoreCompileInputs.cache
+C:\Users\Darkus\Desktop\MmeFrançois\TPGarage\TPGarage\obj\Debug\TPGarage.exe
+C:\Users\Darkus\Desktop\MmeFrançois\TPGarage\TPGarage\obj\Debug\TPGarage.pdb

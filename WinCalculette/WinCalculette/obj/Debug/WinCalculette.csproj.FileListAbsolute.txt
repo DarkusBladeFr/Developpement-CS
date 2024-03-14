@@ -1,0 +1,10 @@
+C:\Users\Darkus\Desktop\MmeFrançois\WinCalculette\WinCalculette\bin\Debug\WinCalculette.exe.config
+C:\Users\Darkus\Desktop\MmeFrançois\WinCalculette\WinCalculette\bin\Debug\WinCalculette.exe
+C:\Users\Darkus\Desktop\MmeFrançois\WinCalculette\WinCalculette\bin\Debug\WinCalculette.pdb
+C:\Users\Darkus\Desktop\MmeFrançois\WinCalculette\WinCalculette\obj\Debug\WinCalculette.csproj.AssemblyReference.cache
+C:\Users\Darkus\Desktop\MmeFrançois\WinCalculette\WinCalculette\obj\Debug\WinCalculette.FrmCalculette.resources
+C:\Users\Darkus\Desktop\MmeFrançois\WinCalculette\WinCalculette\obj\Debug\WinCalculette.Properties.Resources.resources
+C:\Users\Darkus\Desktop\MmeFrançois\WinCalculette\WinCalculette\obj\Debug\WinCalculette.csproj.GenerateResource.cache
+C:\Users\Darkus\Desktop\MmeFrançois\WinCalculette\WinCalculette\obj\Debug\WinCalculette.csproj.CoreCompileInputs.cache
+C:\Users\Darkus\Desktop\MmeFrançois\WinCalculette\WinCalculette\obj\Debug\WinCalculette.exe
+C:\Users\Darkus\Desktop\MmeFrançois\WinCalculette\WinCalculette\obj\Debug\WinCalculette.pdb

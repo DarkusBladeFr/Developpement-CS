@@ -1,0 +1,7 @@
+C:\Users\Darkus\Desktop\TP3FIN\TP3FIN\obj\Debug\TP3FIN.csproj.AssemblyReference.cache
+C:\Users\Darkus\Desktop\TP3FIN\TP3FIN\obj\Debug\TP3FIN.csproj.CoreCompileInputs.cache
+C:\Users\Darkus\Desktop\TP3FIN\TP3FIN\bin\Debug\TP3FIN.exe.config
+C:\Users\Darkus\Desktop\TP3FIN\TP3FIN\bin\Debug\TP3FIN.exe
+C:\Users\Darkus\Desktop\TP3FIN\TP3FIN\bin\Debug\TP3FIN.pdb
+C:\Users\Darkus\Desktop\TP3FIN\TP3FIN\obj\Debug\TP3FIN.exe
+C:\Users\Darkus\Desktop\TP3FIN\TP3FIN\obj\Debug\TP3FIN.pdb
